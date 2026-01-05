@@ -1,0 +1,31 @@
+# --- Core ---
+python-dotenv
+langgraph
+typing-extensions
+
+# --- Google Gemini ---
+google-generativeai
+
+# --- Groq Whisper ---
+groq
+
+# --- SFTP & SSH ---
+paramiko
+
+# --- AWS S3 ---
+boto3
+
+# --- MySQL Client ---
+mysql-connector-python
+
+# --- Data Handling ---
+pandas
+
+# --- Logging ---
+rich
+
+# --- Optional: Audio Tools (if needed later) ---
+ffmpeg-python
+
+# --- Optional: Transcription (local fallback) ---
+openai-whisper
